@@ -29,4 +29,3 @@ print(f"Total:${total_profit_losses}")
 
 
 
-
